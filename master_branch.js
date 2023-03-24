@@ -1,1 +1,1 @@
-console.log('branch 1 master file')
+console.log('branch 1 master file "git log --graph --simplify-by-decoration --all"')
